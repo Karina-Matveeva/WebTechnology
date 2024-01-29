@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YTnuS57QUD29foVleQkONt1zB8txn1akeVVe94r102Z26g1ntXEqkD7el1cyCMLCXRZW0LP9SA8hA4LqIg9ifg==",
+  "dgSpecHash": "D0GzFWQ2o8jcCSG0pt5AUuTzgHGZX4ds2AmMnHxhsMxGObv7yvgDHd4IsHZN8zVVWD18tfoNGu75XkNPuB+D7w==",
   "success": true,
-  "projectFilePath": "D:\\ИИТ БГУИР\\10331\\4\\WebTechnology\\WebTechnology\\WebTechnology.csproj",
+  "projectFilePath": "C:\\Users\\dfktr\\Source\\Repos\\WebTechnology\\WebTechnology\\WebTechnology.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dfktr\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\dfktr\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

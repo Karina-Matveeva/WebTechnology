@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "izrEdaHcU7sJRStdf6pNjed9C1DlMDQaNeZxP2NCyN4P3T7NHM50fqS77Zt2sUhHsoJNyJIi0sWVvPnaLiOMxg==",
+  "dgSpecHash": "/a3NIpdFgdMWyMEldHwbZCQ8+O62w8gKBLSF2BK1RGIEL/j4TlSSZbnMaBX185qgNrVolDkTA7axLAaQl8FEQw==",
   "success": true,
-  "projectFilePath": "D:\\ИИТ БГУИР\\10331\\4\\WebTechnology\\WebTechnology.Tests\\WebTechnology.Tests.csproj",
+  "projectFilePath": "C:\\Users\\dfktr\\Source\\Repos\\WebTechnology\\WebTechnology.Tests\\WebTechnology.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dfktr\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\dfktr\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
