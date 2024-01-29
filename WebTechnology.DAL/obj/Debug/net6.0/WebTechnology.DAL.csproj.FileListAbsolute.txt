@@ -1,0 +1,12 @@
+D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\bin\Debug\net6.0\WebTechnology.DAL.deps.json
+D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\bin\Debug\net6.0\WebTechnology.DAL.dll
+D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\bin\Debug\net6.0\WebTechnology.DAL.pdb
+D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\WebTechnology.DAL.csproj.AssemblyReference.cache
+D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\WebTechnology.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\WebTechnology.DAL.AssemblyInfoInputs.cache
+D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\WebTechnology.DAL.AssemblyInfo.cs
+D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\WebTechnology.DAL.csproj.CoreCompileInputs.cache
+D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\WebTechnology.DAL.dll
+D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\refint\WebTechnology.DAL.dll
+D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\WebTechnology.DAL.pdb
+D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\ref\WebTechnology.DAL.dll
