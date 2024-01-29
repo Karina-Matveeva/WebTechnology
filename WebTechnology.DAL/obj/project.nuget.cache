@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5PuQGtElTRILdPIym6OpGNkI4PAdTmDUfI1sZYRaooJALgd50s7G0CoehCKCKcQ9extWeBy2YTVZvTPA2LAzBQ==",
+  "dgSpecHash": "5eTe+skei9XLa+c57wVVAfSfmeSHvcOgQ/Z7AUgyk/9sIQbZinZoJ14m2Z0T4EnpQlRoskI8IB/jimLu5Du8iQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dfktr\\Source\\Repos\\WebTechnology\\WebTechnology.DAL\\WebTechnology.DAL.csproj",
+  "projectFilePath": "D:\\ИИТ БГУИР\\10331\\4\\WebTechnology\\WebTechnology.DAL\\WebTechnology.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dfktr\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.16\\microsoft.aspnetcore.cryptography.internal.6.0.16.nupkg.sha512",
     "C:\\Users\\dfktr\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.16\\microsoft.aspnetcore.cryptography.keyderivation.6.0.16.nupkg.sha512",
