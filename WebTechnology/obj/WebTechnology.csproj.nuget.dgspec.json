@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ИИТ БГУИР\\10331\\4\\WebTechnology\\WebTechnology\\WebTechnology.csproj": {}
+    "C:\\Users\\dfktr\\Source\\Repos\\WebTechnology\\WebTechnology\\WebTechnology.csproj": {}
   },
   "projects": {
-    "D:\\ИИТ БГУИР\\10331\\4\\WebTechnology\\WebTechnology.DAL\\WebTechnology.DAL.csproj": {
+    "C:\\Users\\dfktr\\Source\\Repos\\WebTechnology\\WebTechnology.DAL\\WebTechnology.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ИИТ БГУИР\\10331\\4\\WebTechnology\\WebTechnology.DAL\\WebTechnology.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\dfktr\\Source\\Repos\\WebTechnology\\WebTechnology.DAL\\WebTechnology.DAL.csproj",
         "projectName": "WebTechnology.DAL",
-        "projectPath": "D:\\ИИТ БГУИР\\10331\\4\\WebTechnology\\WebTechnology.DAL\\WebTechnology.DAL.csproj",
+        "projectPath": "C:\\Users\\dfktr\\Source\\Repos\\WebTechnology\\WebTechnology.DAL\\WebTechnology.DAL.csproj",
         "packagesPath": "C:\\Users\\dfktr\\.nuget\\packages\\",
-        "outputPath": "D:\\ИИТ БГУИР\\10331\\4\\WebTechnology\\WebTechnology.DAL\\obj\\",
+        "outputPath": "C:\\Users\\dfktr\\Source\\Repos\\WebTechnology\\WebTechnology.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,14 +73,14 @@
         }
       }
     },
-    "D:\\ИИТ БГУИР\\10331\\4\\WebTechnology\\WebTechnology\\WebTechnology.csproj": {
+    "C:\\Users\\dfktr\\Source\\Repos\\WebTechnology\\WebTechnology\\WebTechnology.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ИИТ БГУИР\\10331\\4\\WebTechnology\\WebTechnology\\WebTechnology.csproj",
+        "projectUniqueName": "C:\\Users\\dfktr\\Source\\Repos\\WebTechnology\\WebTechnology\\WebTechnology.csproj",
         "projectName": "WebTechnology",
-        "projectPath": "D:\\ИИТ БГУИР\\10331\\4\\WebTechnology\\WebTechnology\\WebTechnology.csproj",
+        "projectPath": "C:\\Users\\dfktr\\Source\\Repos\\WebTechnology\\WebTechnology\\WebTechnology.csproj",
         "packagesPath": "C:\\Users\\dfktr\\.nuget\\packages\\",
-        "outputPath": "D:\\ИИТ БГУИР\\10331\\4\\WebTechnology\\WebTechnology\\obj\\",
+        "outputPath": "C:\\Users\\dfktr\\Source\\Repos\\WebTechnology\\WebTechnology\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -102,8 +102,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\ИИТ БГУИР\\10331\\4\\WebTechnology\\WebTechnology.DAL\\WebTechnology.DAL.csproj": {
-                "projectPath": "D:\\ИИТ БГУИР\\10331\\4\\WebTechnology\\WebTechnology.DAL\\WebTechnology.DAL.csproj"
+              "C:\\Users\\dfktr\\Source\\Repos\\WebTechnology\\WebTechnology.DAL\\WebTechnology.DAL.csproj": {
+                "projectPath": "C:\\Users\\dfktr\\Source\\Repos\\WebTechnology\\WebTechnology.DAL\\WebTechnology.DAL.csproj"
               }
             }
           }
