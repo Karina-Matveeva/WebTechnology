@@ -10,3 +10,15 @@ D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\We
 D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\refint\WebTechnology.DAL.dll
 D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\WebTechnology.DAL.pdb
 D:\ИИТ БГУИР\10331\4\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\ref\WebTechnology.DAL.dll
+C:\Users\dfktr\Source\Repos\WebTechnology\WebTechnology.DAL\bin\Debug\net6.0\WebTechnology.DAL.deps.json
+C:\Users\dfktr\Source\Repos\WebTechnology\WebTechnology.DAL\bin\Debug\net6.0\WebTechnology.DAL.dll
+C:\Users\dfktr\Source\Repos\WebTechnology\WebTechnology.DAL\bin\Debug\net6.0\WebTechnology.DAL.pdb
+C:\Users\dfktr\Source\Repos\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\WebTechnology.DAL.csproj.AssemblyReference.cache
+C:\Users\dfktr\Source\Repos\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\WebTechnology.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfktr\Source\Repos\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\WebTechnology.DAL.AssemblyInfoInputs.cache
+C:\Users\dfktr\Source\Repos\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\WebTechnology.DAL.AssemblyInfo.cs
+C:\Users\dfktr\Source\Repos\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\WebTechnology.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dfktr\Source\Repos\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\WebTechnology.DAL.dll
+C:\Users\dfktr\Source\Repos\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\refint\WebTechnology.DAL.dll
+C:\Users\dfktr\Source\Repos\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\WebTechnology.DAL.pdb
+C:\Users\dfktr\Source\Repos\WebTechnology\WebTechnology.DAL\obj\Debug\net6.0\ref\WebTechnology.DAL.dll
